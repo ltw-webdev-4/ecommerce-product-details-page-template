@@ -1,18 +1,18 @@
 ---
-summary: 'Using another person’s pattern library create the product details page within the system they created.'
-time: '2 hours'
-deliverables: 'Pattern library'
+summary: "Using another person’s pattern library create the product details page within the system they created."
+time: "2 hours"
+deliverables: "Pattern library"
 ---
 
 # Product details page template
 
 ## Overview
 
-- *Work only on your teammate’s `ecommerce-pattern-library` that you cloned to your computer*—**ensure you only make commits to the `product-details` branch.**
+- _Work only on your teammate’s `ecommerce-pattern-library` that you cloned to your computer_—**ensure you only make commits to the `product-details` branch.**
 - Use their designed patterns to create the page that lists all details for a single product.
 - You should already have a wireframe and appropriate documentation to complete your task.
 - **You should only be working within the `product.html` layout—this file represents the view for every single product on their website.**
-- *You should only write HTML and insert appropriate classes like `.grid` and type sizes.*
+- _You should only write HTML and insert appropriate classes like `.grid` and type sizes._
 - **DO NOT make any adjustments to any other files in the pattern library—the only file you can touch is the `product.html` layout.** If something can’t be created you need to chat with your teammate to come up with a solution.
 - **The product details page does not get its own CSS file.** If you cannot create the page without writing CSS, talk to your teammate to better understand the patterns you’re supposed to use.
 
@@ -20,7 +20,7 @@ deliverables: 'Pattern library'
 
 ## Pattern library updates
 
-If you run into a situation where your teammate needs to update their pattern library [follow the steps in the “Updating from master” lesson](https://learn-the-web.algonquindesign.ca/courses/web-dev-4/updating-from-master/).
+If you run into a situation where your teammate needs to update their pattern library [follow the steps in the “Updating from master” lesson](https://learntheweb.courses/courses/web-dev-4/updating-from-master/).
 
 **This shouldn’t happen though—because everybody has thought ahead and made ready everything necessary for the product details page. (\*wink \*wink)**
 
